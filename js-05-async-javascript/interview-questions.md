@@ -12,7 +12,7 @@ Perfect 👍 These are **very common JavaScript interview questions** (especiall
 ---
 
 ## 1️⃣ What is Event Loop?
-
+![alt text](<Screenshot 2026-02-26 225135.png>)
 JavaScript is **single-threaded**, so it can execute only one task at a time.
 
 The **Event Loop** is a mechanism that:
